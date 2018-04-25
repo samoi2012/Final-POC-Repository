@@ -28,7 +28,7 @@ public class SampleTestCase {
 	  browser.quit();
 	  
 	  System.out.println("Test Completed");
-	  System.out.println("Git Polling Testing");
+	  System.out.println("Git Polling Testing on 25 Apr");
 	  
 	  
 	  
